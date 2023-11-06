@@ -8,3 +8,6 @@ Contains the footprint library and schematic symbol libraries as local libraries
 
 ## FreeCad Data
 Contains the data generated for cutting the box plating
+
+## Images
+Images of the physical board for reference of what the actual final product looks like
